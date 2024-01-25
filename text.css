@@ -9,3 +9,12 @@ h1{
 h2{
   color: alpha;
 }
+h3{
+  color: brown;
+}
+h4 h5 h6{
+  color: green;
+}
+p{
+  color:orange;
+}
